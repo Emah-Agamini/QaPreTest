@@ -29,7 +29,7 @@ Automated tests are written to validate the following:
 
 Tools used:
 - **Jest**: Unit and integration tests.
-- **Cypress/Puppeteer**: End-to-end API testing.
+- **Cypress**: End-to-end API testing.
 
 ## Frontend UI Development
 A React-based UI was developed to allow users to:
