@@ -1,9 +1,9 @@
 
 
-# QA Home Assignment
+# QA Pre-Test Task
 
 ## Overview
-This repository contains the implementation of the QA Home Assignment, which includes backend API testing and frontend UI development. The project was built using Jest and Cypress for testing and a React-based UI for frontend development.
+This repository contains the implementation of the QA Pre-Test Task, which includes backend API testing and frontend UI development. The project was built using Jest and Cypress for testing and a React-based UI for front-end development.
 
 ## Table of Contents
 - [Backend API Testing](#backend-api-testing)
